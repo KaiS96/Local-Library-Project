@@ -12,4 +12,6 @@ This is a project based on a neighborhood that has decided to put together a loc
 
 + Provides statistics such as current number of books borrowed, most popular books, genres and authors.
 
+**Technologies:** Javascript, HTML, CSS, Bootstrap, Node.js
+
 ![LocalLibrary](https://user-images.githubusercontent.com/119773913/235230102-725f5184-3e22-49af-92a3-584c64fc842b.png)
